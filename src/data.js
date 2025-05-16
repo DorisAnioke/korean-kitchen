@@ -47,7 +47,7 @@ export const menuItems = [
     category: "mains",
     price: 11.99,
     description: "Stir-fried glass noodles with vegetables and beef",
-    image: "/images/japchae.jpg",
+    image: "/images/Japchae.jpg",
   },
   {
     id: 7,
