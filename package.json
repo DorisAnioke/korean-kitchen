@@ -1,8 +1,5 @@
 {
   "homepage": "https://DorisAnioke.github.io/korean-kitchen",
-  
-
-  
   "name": "korean-kitchen",
   "private": true,
   "version": "0.0.0",
@@ -10,16 +7,13 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.20.6",
     "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",

@@ -2,12 +2,12 @@
 import { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import Cart from './components/Cart'
 import Home from './pages/Home';
 import Menu from './pages/Menu';
 import Order from './pages/Order';
-import Contact from './pages/contact';
+import Contact from './pages/Contact';
 import './styles.css';
 
 function App() {
