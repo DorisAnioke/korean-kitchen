@@ -8,7 +8,7 @@ import Home from './pages/Home';
 import Menu from './pages/Menu';
 import Order from './pages/Order';
 import Contact from './pages/Contact';
-import './styles.css';
+import './Styles.css';
 
 function App() {
   const [cart, setCart] = useState([]);
