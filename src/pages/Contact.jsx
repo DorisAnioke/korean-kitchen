@@ -11,9 +11,7 @@ function Contact() {
             Enugu, Nigeria
           </p>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.776879169496!2d126.97514731531675!3d37.
-            566535179797395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2e7d6b0c54f%3A0x7b37d81b6e8b8c2!
-            2sEnugu%2C%20South%20Korea!5e0!3m2!1sen!2sus!4v1634567890123!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15841.295719795!2d7.512417!3d6.441421!2m3!1f0!2f0!3f0!3m2!111024!21768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjYnMjkuMSJOIDfCsDMwJzQOLjciRQ!5e0!3m2!1sen!2sus!4v1621435678901!5m2!1sen!2sus"
             width="100%"
             height="300"
             style={{ border: 0 }}
