@@ -72,7 +72,7 @@ export const menuItems = [
     category: "sides",
     price: 6.99,
     description: "Assorted side dishes including pickled radish and seasoned spinach",
-    image: "/public/images/banchan.jpg",
+    image: "/images/banchan.jpg",
   },
   // Drinks
   {
