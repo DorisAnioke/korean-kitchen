@@ -7,7 +7,7 @@ export const menuItems = [
     category: "mains",
     price: 12.99,
     description: "Mixed rice with vegetables, beef, and gochujang sauce",
-    image: "/public/images/bibimbap.jpg",
+    image: "/images/bibimbap.jpg",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const menuItems = [
     category: "mains",
     price: 9.99,
     description: "Spicy cylindrical rice cakes in red chili sauce",
-    image: "/public/images/tteobokki.jpg",
+    image: "/images/tteobokki.jpg",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ export const menuItems = [
     category: "mains",
     price: 14.99,
     description: "Crispy fried chicken with sweet and spicy sauce",
-    image: "/public/images/friedchicken.jpg",
+    image: "/images/friedchicken.jpg",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ export const menuItems = [
     category: "mains",
     price: 7.99,
     description: "Seaweed rice rolls with vegetables and meat",
-    image: "/public/images/kimbap.jpg",
+    image: "/images/kimbap.jpg",
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ export const menuItems = [
     category: "mains",
     price: 15.99,
     description: "Marinated beef grilled to perfection",
-    image: "/public/images/bulgogi.jpg",
+    image: "/images/bulgogi.jpg",
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ export const menuItems = [
     category: "mains",
     price: 11.99,
     description: "Stir-fried glass noodles with vegetables and beef",
-    image: "/public/images/japchae.jpg",
+    image: "/images/japchae.jpg",
   },
   {
     id: 7,
@@ -55,7 +55,7 @@ export const menuItems = [
     category: "mains",
     price: 10.99,
     description: "Noodles in black bean sauce with pork and vegetables",
-    image: "/public/images/jajangmyeon-plate.jpg",
+    image: "/images/jajangmyeon-plate.jpg",
   },
   // Sides
   {
@@ -64,7 +64,7 @@ export const menuItems = [
     category: "sides",
     price: 4.99,
     description: "Fermented spicy cabbage, a Korean staple",
-    image: "/public/images/kimchi.jpg",
+    image: "/images/kimchi.jpg",
   },
   {
     id: 9,
@@ -81,6 +81,6 @@ export const menuItems = [
     category: "drinks",
     price: 8.99,
     description: "Traditional Korean distilled spirit",
-    image: "/public/images/soju.jpg",
+    image: "/images/soju.jpg",
   },
 ];
