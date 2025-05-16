@@ -19,7 +19,7 @@ function Contact() {
             style={{ border: 0 }}
             allowFullScreen=""
             loading="lazy"
-            title="Korean Delight Location"
+            title=" Seri's Korean Delight Location"
           ></iframe>
         </div>
         <div className="contact-section">
@@ -28,7 +28,7 @@ function Contact() {
             <span className="contact-icon">☎️</span>
             Phone:  +234-814-309-2486
           </p>
-          <p>Email: info@Seriskoreandelight.com</p>
+          <p>Email: Seriskoreandelight@gmail.com</p>
         </div>
         <div className="contact-section">
           <h3>Follow Us</h3>
